@@ -92,13 +92,13 @@
         <item>Steve Cooper</item>
         <item>Arne Slot</item>
         <item>Pep Guardiola</item>
-        <item>Erik ten Hag</item>
+        <item>Ruben Amorim</item>
         <item>Eddie Howe</item>
         <item>Nuno Espírito Santo</item>
         <item>Russell Martin</item>
         <item>Ange Postecoglou</item>
         <item>Julen Lopetegui</item>
-        <item>Gary O\'Neil</item>
+        <item>Vítor Pereira</item>
     </string-array>
 
     <integer-array name="premier_league_club_coaches">
@@ -115,13 +115,13 @@
         <item>@drawable/stevecooper</item>
         <item>@drawable/arneslot</item>
         <item>@drawable/pepguardiola</item>
-        <item>@drawable/eriktenhag</item>
+        <item>@drawable/rubenamorim</item>
         <item>@drawable/eddiehowe</item>
         <item>@drawable/nunoespiritosanto</item>
         <item>@drawable/russellmartin</item>
         <item>@drawable/angepostecoglou</item>
         <item>@drawable/julenlopetegui</item>
-        <item>@drawable/garryoneil</item>
+        <item>@drawable/vitorpereira</item>
     </integer-array>
 
     <string-array name="premier_league_club_descriptions">
