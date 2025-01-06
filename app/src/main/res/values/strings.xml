@@ -1,0 +1,495 @@
+<resources>
+    <string name="app_name">EPLwiki</string>
+    <string name="template_name">Nama Pahlawan</string>
+    <string name="template_desc">Deskripsi</string>
+    <string name="template_slogan">Slogan</string>
+    <string name="namasaya">Haikal Afifsyah</string>
+    <string name="emailsaya">haikalafifsyah@gmail.com</string>
+    <!-- Array untuk nama klub -->
+    <string-array name="premier_league_club_names">
+        <item>Arsenal</item>
+        <item>Aston Villa</item>
+        <item>Bournemouth</item>
+        <item>Brentford</item>
+        <item>Brighton &amp; Hove Albion</item>
+        <item>Chelsea FC</item>
+        <item>Crystal Palace FC</item>
+        <item>Everton</item>
+        <item>Fulham</item>
+        <item>Ipswich Town</item>
+        <item>Leicester City</item>
+        <item>Liverpool</item>
+        <item>Manchester City</item>
+        <item>Manchester United</item>
+        <item>Newcastle United</item>
+        <item>Nottingham Forest</item>
+        <item>Southampton FC</item>
+        <item>Tottenham Hotspur FC</item>
+        <item>West Ham United</item>
+        <item>Wolverhampton Wanderers FC</item>
+    </string-array>
+
+    <!-- Array untuk tahun berdiri -->
+    <string-array name="premier_league_founding_years">
+        <item>1886</item>
+        <item>1874</item>
+        <item>1899</item>
+        <item>1889</item>
+        <item>1901</item>
+        <item>1905</item>
+        <item>1905</item>
+        <item>1878</item>
+        <item>1879</item>
+        <item>1878</item>
+        <item>1884</item>
+        <item>1892</item>
+        <item>1880</item>
+        <item>1878</item>
+        <item>1892</item>
+        <item>1865</item>
+        <item>1885</item>
+        <item>1882</item>
+        <item>1895</item>
+        <item>1877</item>
+    </string-array>
+
+    <!-- Array untuk slogan klub -->
+    <string-array name="premier_league_club_slogans">
+        <item>Victoria Concordia Crescit</item>
+        <item>Prepared</item>
+        <item>Together, Anything is Possible</item>
+        <item>Bee Together</item>
+        <item>Sussex by the Sea</item>
+        <item>The Pride of London</item>
+        <item>South London and Proud</item>
+        <item>Nil Satis Nisi Optimum</item>
+        <item>We Are Fulham</item>
+        <item>Pride of Anglia</item>
+        <item>Foxes Never Quit</item>
+        <item>You\'ll Never Walk Alone</item>
+        <item>Pride in Battle</item>
+        <item>Glory Glory Man United</item>
+        <item>Howay the Lads</item>
+        <item>Out of the Darkness Cometh Light</item>
+        <item>We March On</item>
+        <item>To Dare Is To Do</item>
+        <item>I\'m Forever Blowing Bubbles</item>
+        <item>Out of darkness cometh light</item>
+    </string-array>
+
+    <!-- Array untuk pelatih klub -->
+    <string-array name="premier_league_club_managers">
+        <item>Mikel Arteta</item>
+        <item>Unai Emery</item>
+        <item>Andoni Iraola</item>
+        <item>Thomas Frank</item>
+        <item>Fabian Hurzeler</item>
+        <item>Enzo Maresca</item>
+        <item>Oliver Glasner</item>
+        <item>Sean Dyche</item>
+        <item>Marco Silva</item>
+        <item>Kieran McKenna</item>
+        <item>Steve Cooper</item>
+        <item>Arne Slot</item>
+        <item>Pep Guardiola</item>
+        <item>Erik ten Hag</item>
+        <item>Eddie Howe</item>
+        <item>Nuno Espírito Santo</item>
+        <item>Russell Martin</item>
+        <item>Ange Postecoglou</item>
+        <item>Julen Lopetegui</item>
+        <item>Gary O\'Neil</item>
+    </string-array>
+
+    <integer-array name="premier_league_club_coaches">
+        <item>@drawable/mikelarteta</item>
+        <item>@drawable/unaiemery</item>
+        <item>@drawable/andoniiraola</item>
+        <item>@drawable/thomasfrank</item>
+        <item>@drawable/fabianhurzeler</item>
+        <item>@drawable/enzomaresca</item>
+        <item>@drawable/olivergrasner</item>
+        <item>@drawable/seandyche</item>
+        <item>@drawable/marcosilva</item>
+        <item>@drawable/kieranmckenna</item>
+        <item>@drawable/stevecooper</item>
+        <item>@drawable/arneslot</item>
+        <item>@drawable/pepguardiola</item>
+        <item>@drawable/eriktenhag</item>
+        <item>@drawable/eddiehowe</item>
+        <item>@drawable/nunoespiritosanto</item>
+        <item>@drawable/russellmartin</item>
+        <item>@drawable/angepostecoglou</item>
+        <item>@drawable/julenlopetegui</item>
+        <item>@drawable/garryoneil</item>
+    </integer-array>
+
+    <string-array name="premier_league_club_descriptions">
+        <item>Arsenal Football Club is a professional football club based in Islington, London. Founded in 1886, the club has been a symbol of footballing excellence, known for its attractive playing style and development of young talent. Arsenal has won 13 league titles and holds the record for the most FA Cup victories with 14. The club\'s nickname is \"The Gunners,\" derived from its origins as a team formed by workers at the Royal Arsenal armaments factory.</item>
+        <item>Aston Villa Football Club, established in 1874, is one of England\'s oldest and most successful football clubs. Based in Birmingham, Villa have been European Cup champions, winning the prestigious trophy in 1982. The club has won seven league titles and seven FA Cups throughout its rich history. Known for their claret and blue colors, Villa Park has been their home stadium since 1897 and is one of the oldest venues in English football.</item>
+        <item>AFC Bournemouth is a professional football club based in Bournemouth, Dorset. Founded in 1899 as Boscombe St. John\'s Institute, the club has made a remarkable journey from the lower leagues to the Premier League. Known as \"The Cherries,\" Bournemouth plays its home games at the Vitality Stadium, the smallest venue in Premier League history. Under Eddie Howe\'s management, the club achieved three promotions in six seasons to reach the top flight in 2015.</item>
+        <item>Brentford Football Club, nicknamed \"The Bees,\" was founded in 1889. Based in West London, the club moved to their new Brentford Community Stadium in 2020 after 116 years at Griffin Park. Brentford has gained recognition for their innovative use of data analytics in player recruitment and their sustainable approach to football management. The club achieved promotion to the Premier League for the first time in 2021, ending a 74-year absence from the top flight.</item>
+        <item>Brighton &amp; Hove Albion Football Club, commonly known as \"The Seagulls,\" was founded in 1901. The club has experienced significant ups and downs throughout its history, including nearly dropping out of the Football League in 1997. Brighton plays its home games at the Amex Stadium, opened in 2011. Under progressive ownership and management, the club has established itself in the Premier League and is known for its attractive playing style and astute recruitment strategy.</item>
+        <item>Chelsea Football Club, founded in 1905, is based in Fulham, West London. The club experienced its most successful period after being acquired by Roman Abramovich in 2003, winning multiple Premier League titles and the UEFA Champions League in 2012 and 2021. Known as \"The Blues,\" Chelsea plays at Stamford Bridge and has a rich history of attracting world-class players and managers. The club is renowned for its strong youth academy and successful women\'s team.</item>
+        <item>Crystal Palace Football Club, formed in 1905, is based in South London. The club plays its home games at Selhurst Park and is known as \"The Eagles.\" Palace has maintained a unique identity in London football, known for its passionate fans and the intimidating atmosphere created at home games. The club has a history of producing talented players through its academy and has established itself as a regular Premier League competitor since gaining promotion in 2013.</item>
+        <item>Everton Football Club, established in 1878, is one of the founding members of the Football League and has competed in the top division for a record 117 seasons. Based in Liverpool, the club plays at Goodison Park and is known as \"The Toffees.\" Everton has won nine league titles and five FA Cups, and is often referred to as \"The People\'s Club.\" The team has a strong rivalry with Liverpool FC, contesting the Merseyside derby.</item>
+        <item>Fulham Football Club, founded in 1879, is London\'s oldest professional football club. Based in Fulham, West London, the club plays its home games at Craven Cottage, a historic stadium situated on the banks of the River Thames. Known as \"The Cottagers,\" Fulham has a reputation for playing attractive football and has experienced several promotions and relegations between the Premier League and Championship in recent years.</item>
+        <item>Ipswich Town Football Club, established in 1878, is based in Ipswich, Suffolk. The club experienced its golden era under Sir Bobby Robson, winning the FA Cup in 1978 and the UEFA Cup in 1981. Known as \"The Tractor Boys,\" Ipswich plays at Portman Road and has a proud history of developing young talent. The club has strong East Anglian rivalries, particularly with Norwich City.</item>
+        <item>Leicester City Football Club, founded in 1884, achieved one of football\'s greatest surprises by winning the Premier League in 2016 against odds of 5000-1. The club, nicknamed \"The Foxes,\" plays at the King Power Stadium and has experienced a remarkable rise in recent years. Leicester has won the FA Cup and Community Shield, establishing itself as a competitive force in English football under Thai ownership.</item>
+        <item>Liverpool Football Club, established in 1892, is one of the most successful clubs in English football history. The club has won 19 league titles and six European Cups/Champions League trophies. Based at Anfield, Liverpool is famous for its passionate supporters and the \"You\'ll Never Walk Alone\" anthem. Known as \"The Reds,\" the club has a rich history of iconic players and managers, including Bill Shankly and Bob Paisley.</item>
+        <item>Manchester City Football Club, founded in 1880, has transformed into one of football\'s dominant forces following acquisition by Abu Dhabi United Group in 2008. The club plays at the Etihad Stadium and has won multiple Premier League titles under managers Roberto Mancini, Manuel Pellegrini, and Pep Guardiola. Known for their attacking football and substantial investment in facilities and youth development, City achieved a historic treble in 2023.</item>
+        <item>Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester. Founded in 1878 as Newton Heath LYR Football Club, it changed its name to Manchester United in 1902. The club is one of the most successful in English football, having won a record 20 league titles, 12 FA Cups, and three UEFA Champions League trophies. Known as \"The Red Devils,\" United established its global reputation under Sir Alex Ferguson\'s 26-year management.</item>
+        <item>Newcastle United Football Club, formed in 1892, is one of the best-supported teams in England. Based in Newcastle upon Tyne, the club plays at St. James\' Park and is known as \"The Magpies.\" Despite not winning a major trophy since 1969, Newcastle maintains a massive and passionate fanbase. The club experienced a revitalization following its acquisition by Saudi Arabia\'s Public Investment Fund in 2021.</item>
+        <item>Nottingham Forest Football Club, established in 1865, is one of the oldest football clubs in England. The club experienced its golden era under Brian Clough, winning the European Cup in 1979 and 1980. Forest plays at the City Ground and is known for its rich history and passionate supporters. The club returned to the Premier League in 2022 after a 23-year absence, marking a significant milestone in its recent history.</item>
+        <item>Southampton Football Club, founded in 1885, is known for its exceptional youth academy that has produced numerous England internationals. Based in Southampton, Hampshire, the club plays at St. Mary\'s Stadium and is nicknamed \"The Saints.\" Southampton has a history of playing attractive football and has shown resilience in bouncing back from setbacks, including financial difficulties in the early 2000s.</item>
+        <item>Tottenham Hotspur Football Club, founded in 1882, is based in North London. Known as \"Spurs,\" the club plays its home games at the Tottenham Hotspur Stadium, opened in 2019. Tottenham has won two league titles and eight FA Cups, and was the first British club to win a UEFA competition. The club is known for its attacking philosophy, expressed in its motto \"To Dare Is To Do,\" and maintains a fierce rivalry with Arsenal.</item>
+        <item>West Ham United Football Club, founded in 1895 as Thames Ironworks, is based in East London. The club moved to the London Stadium in 2016 after 112 years at the Boleyn Ground. Known as \"The Hammers,\" West Ham has a rich history of producing talented players through its academy, known as \"The Academy of Football.\" The club won the European Cup Winners\' Cup in 1965 and has a passionate fanbase known for the song \"I\'m Forever Blowing Bubbles.\"</item>
+        <item>Wolverhampton Wanderers Football Club, commonly known as Wolves, was founded in 1877. Based in Wolverhampton, West Midlands, the club plays at Molineux Stadium. Wolves experienced great success in the 1950s, winning three league titles. The club has a distinctive old gold and black color scheme and has seen a resurgence since being acquired by Fosun International in 2016, establishing itself as a competitive Premier League team.</item>
+    </string-array>
+
+    <string-array name="premier_league_club_stadiums">
+        <item>Emirates Stadium</item>
+        <item>Villa Park</item>
+        <item>Vitality Stadium</item>
+        <item>Gtech Community Stadium</item>
+        <item>American Express Community Stadium (The Amex)</item>
+        <item>Stamford Bridge</item>
+        <item>Selhurst Park</item>
+        <item>Goodison Park</item>
+        <item>Craven Cottage</item>
+        <item>Portman Road</item>
+        <item>King Power Stadium</item>
+        <item>Anfield</item>
+        <item>Etihad Stadium</item>
+        <item>Old Trafford</item>
+        <item>St James\' Park</item>
+        <item>The City Ground</item>
+        <item>St Mary\'s Stadium</item>
+        <item>Tottenham Hotspur Stadium</item>
+        <item>London Stadium</item>
+        <item>Molineux Stadium</item>
+    </string-array>
+
+    <!-- Gambar stadion -->
+    <integer-array name="premier_league_club_stadium_images">
+        <item>@drawable/emiratesstadium</item>
+        <item>@drawable/villapark</item>
+        <item>@drawable/vitalitystadium</item>
+        <item>@drawable/gtechstadium</item>
+        <item>@drawable/theamexstadium</item>
+        <item>@drawable/stamfordbridge</item>
+        <item>@drawable/selhurstparkstadium</item>
+        <item>@drawable/goodisonpark</item>
+        <item>@drawable/cravencottage</item>
+        <item>@drawable/portmanroad</item>
+        <item>@drawable/kingpower</item>
+        <item>@drawable/anfield</item>
+        <item>@drawable/etihadstadium</item>
+        <item>@drawable/oldtrafford</item>
+        <item>@drawable/stjamespark</item>
+        <item>@drawable/thecityground</item>
+        <item>@drawable/stmarystadium</item>
+        <item>@drawable/tottenhamspurs</item>
+        <item>@drawable/londonstadium</item>
+        <item>@drawable/molineuxstadium</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="arsenal_key_players">
+        <item>Martin Odegaard</item>
+        <item>Kai Havertz</item>
+        <item>David Raya</item>
+        <item>William Saliba</item>
+        <item>Bukayo Saka</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="arsenal_key_players_images">
+        <item>@drawable/martinodegaard</item>
+        <item>@drawable/kaihavertz</item>
+        <item>@drawable/davidraya</item>
+        <item>@drawable/williamsaliba</item>
+        <item>@drawable/bukayosaka</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="astonvilla_key_players">
+        <item>John McGinn</item>
+        <item>Ollie Watkins</item>
+        <item>Emiliano Martinez</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="astonvilla_key_players_images">
+        <item>@drawable/johnmcginn</item>
+        <item>@drawable/olliewatkins</item>
+        <item>@drawable/emimartinez</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="bournemouth_key_players">
+        <item>Evanilson</item>
+        <item>Kepa</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="bournemouth_key_players_images">
+        <item>@drawable/evanilson</item>
+        <item>@drawable/kepa</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="brentford_key_players">
+        <item>Bryan Mbeumo</item>
+        <item>Ben Mee</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="brentford_key_players_images">
+        <item>@drawable/bryanmbeumo</item>
+        <item>@drawable/benmee</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="brighton_key_players">
+        <item>Kaoru Mitoma</item>
+        <item>Danny Welbeck</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="brighton_key_players_images">
+        <item>@drawable/kaorumitoma</item>
+        <item>@drawable/dannywelbeck</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="chelsea_key_players">
+        <item>Enzo Fernandez</item>
+        <item>Cole Palmer</item>
+        <item>Marc Cucurella</item>
+        <item>Nicolas Jackson</item>
+        <item>Joao Felix</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="chelsea_key_players_images">
+        <item>@drawable/enzofernandez</item>
+        <item>@drawable/colepalmer</item>
+        <item>@drawable/cucurella</item>
+        <item>@drawable/nicolasjackson</item>
+        <item>@drawable/joaofelix</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="crystalpalace_key_players">
+        <item>Jean-Phillips Mateta</item>
+        <item>Eberechi Eze</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="crystalpalace_key_players_images">
+        <item>@drawable/mateta</item>
+        <item>@drawable/eberechieze</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="everton_key_players">
+        <item>Jordan Pickford</item>
+        <item>Dominic Calvert-Lewin</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="everton_key_players_images">
+        <item>@drawable/jordanpickford</item>
+        <item>@drawable/calvertlewin</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="fulham_key_players">
+        <item>Andreas Pereira</item>
+        <item>Bernd Leno</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="fulham_key_players_images">
+        <item>@drawable/andreaspereira</item>
+        <item>@drawable/leno</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="ipswich_key_players">
+        <item>Kalvin Phillips</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="ipswich_key_players_images">
+        <item>@drawable/kalvinphillips</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="leicester_key_players">
+        <item>Jamie Vardy</item>
+        <item>Harry Winks</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="leicester_key_players_images">
+        <item>@drawable/jamievardy</item>
+        <item>@drawable/harrywinks</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="liverpool_key_players">
+        <item>Mohamed Salah</item>
+        <item>Darwin Nunez</item>
+        <item>Virgil Van Dijk</item>
+        <item>Alisson Becker</item>
+        <item>Alexis Mac Allister</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="liverpool_key_players_images">
+        <item>@drawable/mosalah</item>
+        <item>@drawable/darwinnunez</item>
+        <item>@drawable/vandijk</item>
+        <item>@drawable/alissonbecker</item>
+        <item>@drawable/macallister</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="manchestercity_key_players">
+        <item>Kevin De Bruyne</item>
+        <item>Erling Haaland</item>
+        <item>Rodri</item>
+        <item>Phil Foden</item>
+        <item>Ruben Dias</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="manchestercity_key_players_images">
+        <item>@drawable/debruyne</item>
+        <item>@drawable/haaland</item>
+        <item>@drawable/rodri</item>
+        <item>@drawable/philfoden</item>
+        <item>@drawable/rubendias</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="manchester_united_key_players">
+        <item>Bruno Fernandes</item>
+        <item>Marcus Rashford</item>
+        <item>De Ligt</item>
+        <item>Andre Onana</item>
+        <item>Antony</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="manchester_united_key_players_images">
+        <item>@drawable/brunofernandes</item>
+        <item>@drawable/marcusrashford</item>
+        <item>@drawable/deligt</item>
+        <item>@drawable/andreonana</item>
+        <item>@drawable/antony</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="newcastle_key_players">
+        <item>Miguel Almiron</item>
+        <item>Harvey Barnes</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="newcastle_key_players_images">
+        <item>@drawable/miguelalmiron</item>
+        <item>@drawable/harveybarnes</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="nottingham_key_players">
+        <item>Anthony Elanga</item>
+        <item>Callum Hudson-Odoi</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="nottingham_key_players_images">
+        <item>@drawable/anthonyelanga</item>
+        <item>@drawable/hudsonodoi</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="southampton_key_players">
+        <item>Adam Armstrong</item>
+        <item>Aaron Ramsdale</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="southampton_key_players_images">
+        <item>@drawable/adamarmstrong</item>
+        <item>@drawable/aaronramsdale</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="tottenham_key_players">
+        <item>Son Heung-Min</item>
+        <item>Micky Van De Ven</item>
+        <item>Vicario</item>
+        <item>Cristian Romero</item>
+        <item>James Maddison</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="tottenham_key_players_images">
+        <item>@drawable/sonheungmin</item>
+        <item>@drawable/vandeven</item>
+        <item>@drawable/vicario</item>
+        <item>@drawable/cristianromero</item>
+        <item>@drawable/jamesmaddison</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="westham_key_players">
+        <item>Lucas Paqueta</item>
+        <item>Jarrod Bowen</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="westham_key_players_images">
+        <item>@drawable/lucaspaqueta</item>
+        <item>@drawable/jarrodbowen</item>
+    </integer-array>
+
+    <!-- Nama pemain kunci -->
+    <string-array name="wolves_key_players">
+        <item>Matheus Cunha</item>
+        <item>Pablo Sarabia</item>
+    </string-array>
+
+    <!-- Gambar pemain kunci -->
+    <integer-array name="wolves_key_players_images">
+        <item>@drawable/matheuscunha</item>
+        <item>@drawable/pablosarabia</item>
+    </integer-array>
+
+    <integer-array name="premier_league_club_logos">
+        <item>@drawable/arsenal</item>
+        <item>@drawable/astonvilla</item>
+        <item>@drawable/bournemouth</item>
+        <item>@drawable/brentford</item>
+        <item>@drawable/brighton</item>
+        <item>@drawable/chelseafc</item>
+        <item>@drawable/crystalpalace</item>
+        <item>@drawable/everton</item>
+        <item>@drawable/fulham</item>
+        <item>@drawable/ipswichtown</item>
+        <item>@drawable/leicestercity</item>
+        <item>@drawable/liverpoolfc</item>
+        <item>@drawable/manchestercity</item>
+        <item>@drawable/manchesterunited</item>
+        <item>@drawable/newcastle</item>
+        <item>@drawable/nottingham</item>
+        <item>@drawable/southampton</item>
+        <item>@drawable/tottenham</item>
+        <item>@drawable/westham</item>
+        <item>@drawable/wolverhampton</item>
+    </integer-array>
+</resources>

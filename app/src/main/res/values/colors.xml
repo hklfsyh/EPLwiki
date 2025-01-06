@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Theme Colors -->
+    <color name="colorPrimary">#37003C</color> <!-- Premier League Purple -->
+    <color name="colorPrimaryDark">#240028</color> <!-- Darker Purple for status bar -->
+    <color name="colorAccent">#FF2882</color> <!-- Premier League Pink -->
+
+    <!-- Button Colors -->
+    <color name="buttonPrimary">#FF2882</color> <!-- Pink for primary actions -->
+    <color name="buttonSecondary">#05F0FF</color> <!-- Light Blue for secondary actions -->
+    <color name="buttonDisabled">#CCCCCC</color>
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#333333</color> <!-- Dark gray for primary text -->
+    <color name="textSecondary">#666666</color> <!-- Medium gray for secondary text -->
+    <color name="textLight">#FFFFFF</color> <!-- White text for dark backgrounds -->
+    <color name="textLink">#05F0FF</color> <!-- Light Blue for links -->
+
+    <!-- Background Colors -->
+    <color name="backgroundPrimary">#FFFFFF</color> <!-- White background -->
+    <color name="backgroundSecondary">#F5F5F5</color> <!-- Light gray for secondary backgrounds -->
+    <color name="backgroundDark">#1A1A1A</color> <!-- Dark background for night mode -->
+    <color name="cardBackground">#FFFFFF</color> <!-- White for cards -->
+
+    <!-- Accent Colors -->
+    <color name="accentGold">#FDB927</color> <!-- Gold for special elements -->
+    <color name="accentGreen">#00FF87</color> <!-- Green for success states -->
+    <color name="accentRed">#FF2828</color> <!-- Red for error states -->
+
+    <!-- Overlay Colors -->
+    <color name="scrimOverlay">#52000000</color> <!-- Semi-transparent black for overlays -->
+    <color name="dividerColor">#EEEEEE</color> <!-- Light gray for dividers -->
+
+    <!-- Specific UI Element Colors -->
+    <color name="tabSelected">#FF2882</color> <!-- Pink for selected tabs -->
+    <color name="tabUnselected">#80FF2882</color> <!-- Semi-transparent pink for unselected tabs -->
+    <color name="searchBarBackground">#F5F5F5</color> <!-- Light gray for search bars -->
+    <color name="navigationBarColor">#37003C</color> <!-- Purple for navigation bar -->
+
+    <!-- Common Colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="backgroundPrimary_light">#FFFFFF</color>
+    <color name="backgroundPrimary_dark">#121212</color>
+    <color name="backgroundSecondary_light">#F5F5F5</color>
+    <color name="backgroundSecondary_dark">#1E1E1E</color>
+
+    <color name="cardBackground_light">#FFFFFF</color>
+    <color name="cardBackground_dark">#2D2D2D</color>
+
+    <color name="textPrimary_light">#333333</color>
+    <color name="textPrimary_dark">#FFFFFF</color>
+    <color name="textSecondary_light">#666666</color>
+    <color name="textSecondary_dark">#B3FFFFFF</color>
+
+    <color name="buttonPrimaryText">#FFFFFF</color>
+</resources>
