@@ -14,7 +14,6 @@ EPLWiki hadir dengan berbagai fitur menarik:
 - **🏟️ Informasi Stadion**: Nama stadion tempat klub bertanding.  
 - **👨‍🏫 Profil Pelatih**: Gambaran pelatih setiap klub.  
 - **⭐ Pemain Kunci**: Daftar pemain kunci yang dimiliki setiap klub.  
-- **📊 Statistik Musim 2024/2025** *(jika diperlukan tambahan data statistik klub/pertandingan di masa depan)*.  
 
 ---
 
