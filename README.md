@@ -57,7 +57,7 @@ Clone repository ini ke komputer Anda:
 git clone https://github.com/username/EPLWiki.git
 ```
 ### 2. **Download Releases**
-Download langsung aplikasinya dengan menggunakan versi yang sudah di release pada GitHub ini.
+Download langsung aplikasinya dengan menggunakan versi yang sudah di release pada GitHub ini, atau dengan menggunakan [link](https://github.com/hklfsyh/EPLwiki/releases/tag/v1.0.0) ini.
 
 ---
 
