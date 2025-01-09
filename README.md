@@ -54,7 +54,7 @@ Untuk menjalankan aplikasi EPLWiki di perangkat Anda, ikuti langkah-langkah beri
 ### 1. **Clone Repository**
 Clone repository ini ke komputer Anda:  
 ```bash
-git clone https://github.com/username/EPLWiki.git
+git clone https://github.com/hklfsyh/EPLWiki.git
 ```
 ### 2. **Download Releases**
 Download langsung aplikasinya dengan menggunakan versi yang sudah di release pada GitHub ini, atau dengan menggunakan [link](https://github.com/hklfsyh/EPLwiki/releases/tag/v1.0.0) ini.
